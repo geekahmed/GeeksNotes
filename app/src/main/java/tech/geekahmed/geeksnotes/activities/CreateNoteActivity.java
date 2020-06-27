@@ -1,10 +1,12 @@
-package tech.geekahmed.geeksnotes;
+package tech.geekahmed.geeksnotes.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
+
+import tech.geekahmed.geeksnotes.R;
 
 public class CreateNoteActivity extends AppCompatActivity {
 
